@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from colorama import Fore
 from os import path
 from builtwith import builtwith
